@@ -1,5 +1,9 @@
 # reviewography
 
+[![CI](https://github.com/tooppoo/reviewography/actions/workflows/ci.yml/badge.svg)](https://github.com/tooppoo/reviewography/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/tooppoo/reviewography/graph/badge.svg?token=KdgB8qZyUk)](https://codecov.io/gh/tooppoo/reviewography)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 `reviewography` is a local-first review memory tool for AI-assisted software development.
 
 It runs AI reviews against local changes, records review findings as structured data, and turns useful findings into reusable review criteria.
